@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require_relative '../lib/web_scraper'
 
-WebScraper.new.json
+puts(WebScraper.new.json)
