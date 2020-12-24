@@ -8,7 +8,7 @@
       <link>https://zfletch.github.io/yale-courses-rss/</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Dec 2020 10:05:28 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 24 Dec 2020 10:07:54 -0500</lastBuildDate>
     <link>https://zfletch.github.io/yale-courses-rss/rss.xml</link>
     <title>Open Yale Courses RSS</title>
     <atom:link href="https://zfletch.github.io/yale-courses-rss/rss.xml" rel="self" type="application/rss+xml"/>
@@ -50,7 +50,7 @@
     <item>
       <title>PHYS 200: Lecture 3</title>
       <description>Fundamentals of Physics I: Newton&amp;#39;s Laws of Motion</description>
-      <itunes:summary>Fundamentals of Physics I: Newton&amp;#39;s Laws of Motion</itunes:summary>
+      <itunes:summary>Fundamentals of Physics I: Newton's Laws of Motion</itunes:summary>
       <link>https://oyc.yale.edu/physics/phys-200/lecture-3</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_03_091306.mp3" type="audio/mpeg" length="65632509"/>
       <pubDate>Sun, 3 Sep 2006 00:00:00 +0000</pubDate>
@@ -62,7 +62,7 @@
     <item>
       <title>PHYS 200: Lecture 4</title>
       <description>Fundamentals of Physics I: Newton&amp;#39;s Laws (cont.) and Inclined Planes</description>
-      <itunes:summary>Fundamentals of Physics I: Newton&amp;#39;s Laws (cont.) and Inclined Planes</itunes:summary>
+      <itunes:summary>Fundamentals of Physics I: Newton's Laws (cont.) and Inclined Planes</itunes:summary>
       <link>https://oyc.yale.edu/physics/phys-200/lecture-4</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_04_091806.mp3" type="audio/mpeg" length="64718015"/>
       <pubDate>Mon, 4 Sep 2006 00:00:00 +0000</pubDate>
@@ -242,7 +242,7 @@
     <item>
       <title>PHYS 200: Lecture 20</title>
       <description>Fundamentals of Physics I: Fluid Dynamics and Statics and Bernoulli&amp;#39;s Equation</description>
-      <itunes:summary>Fundamentals of Physics I: Fluid Dynamics and Statics and Bernoulli&amp;#39;s Equation</itunes:summary>
+      <itunes:summary>Fundamentals of Physics I: Fluid Dynamics and Statics and Bernoulli's Equation</itunes:summary>
       <link>https://oyc.yale.edu/physics/phys-200/lecture-20</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_20_111506.mp3" type="audio/mpeg" length="69625692"/>
       <pubDate>Tue, 19 Sep 2006 00:00:00 +0000</pubDate>
@@ -278,7 +278,7 @@
     <item>
       <title>PHYS 200: Lecture 23</title>
       <description>Fundamentals of Physics I: The Second Law of Thermodynamics and Carnot&amp;#39;s Engine</description>
-      <itunes:summary>Fundamentals of Physics I: The Second Law of Thermodynamics and Carnot&amp;#39;s Engine</itunes:summary>
+      <itunes:summary>Fundamentals of Physics I: The Second Law of Thermodynamics and Carnot's Engine</itunes:summary>
       <link>https://oyc.yale.edu/physics/phys-200/lecture-23</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/phys200/mp3/phys200_23_120406.mp3" type="audio/mpeg" length="68311210"/>
       <pubDate>Fri, 22 Sep 2006 00:00:00 +0000</pubDate>
@@ -506,7 +506,7 @@
     <item>
       <title>PLSC 114: Lecture 18</title>
       <description>Introduction to Political Philosophy: Democracy and Participation: Rousseau, Discourse on Inequality (Author&amp;#39;s Preface, Part I)</description>
-      <itunes:summary>Introduction to Political Philosophy: Democracy and Participation: Rousseau, Discourse on Inequality (Author&amp;#39;s Preface, Part I)</itunes:summary>
+      <itunes:summary>Introduction to Political Philosophy: Democracy and Participation: Rousseau, Discourse on Inequality (Author's Preface, Part I)</itunes:summary>
       <link>https://oyc.yale.edu/political-science/plsc-114/lecture-18</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall06/plsc114/mp3/plsc114_18_110806.mp3" type="audio/mpeg" length="42118125"/>
       <pubDate>Mon, 18 Sep 2006 00:00:00 +0000</pubDate>
@@ -1454,7 +1454,7 @@
     <item>
       <title>CLCV 205: Lecture 6</title>
       <description>Introduction to Ancient Greek History: The Greek &amp;quot;Renaissance&amp;quot; - Colonization and Tyranny</description>
-      <itunes:summary>Introduction to Ancient Greek History: The Greek &amp;quot;Renaissance&amp;quot; - Colonization and Tyranny</itunes:summary>
+      <itunes:summary>Introduction to Ancient Greek History: The Greek "Renaissance" - Colonization and Tyranny</itunes:summary>
       <link>https://oyc.yale.edu/classics/clcv-205/lecture-6</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/clcv205/mp3/clcv205_06_092507.mp3" type="audio/mpeg" length="65785483"/>
       <pubDate>Thu, 6 Sep 2007 00:00:00 +0000</pubDate>
@@ -1466,7 +1466,7 @@
     <item>
       <title>CLCV 205: Lecture 7</title>
       <description>Introduction to Ancient Greek History: The Greek &amp;quot;Renaissance&amp;quot; - Colonization and Tyranny (cont.)</description>
-      <itunes:summary>Introduction to Ancient Greek History: The Greek &amp;quot;Renaissance&amp;quot; - Colonization and Tyranny (cont.)</itunes:summary>
+      <itunes:summary>Introduction to Ancient Greek History: The Greek "Renaissance" - Colonization and Tyranny (cont.)</itunes:summary>
       <link>https://oyc.yale.edu/classics/clcv-205/lecture-7</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/clcv205/mp3/clcv205_07_092707.mp3" type="audio/mpeg" length="66747207"/>
       <pubDate>Fri, 7 Sep 2007 00:00:00 +0000</pubDate>
@@ -1694,7 +1694,7 @@
     <item>
       <title>ECON 159: Lecture 2</title>
       <description>Game Theory: Putting Yourselves into Other People&amp;#39;s Shoes</description>
-      <itunes:summary>Game Theory: Putting Yourselves into Other People&amp;#39;s Shoes</itunes:summary>
+      <itunes:summary>Game Theory: Putting Yourselves into Other People's Shoes</itunes:summary>
       <link>https://oyc.yale.edu/economics/econ-159/lecture-2</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/econ159/mp3/econ159_02_091007.mp3" type="audio/mpeg" length="66059664"/>
       <pubDate>Sun, 2 Sep 2007 00:00:00 +0000</pubDate>
@@ -1958,7 +1958,7 @@
     <item>
       <title>ECON 159: Lecture 24</title>
       <description>Game Theory: Asymmetric Information: Auctions and the Winner&amp;#39;s Curse</description>
-      <itunes:summary>Game Theory: Asymmetric Information: Auctions and the Winner&amp;#39;s Curse</itunes:summary>
+      <itunes:summary>Game Theory: Asymmetric Information: Auctions and the Winner's Curse</itunes:summary>
       <link>https://oyc.yale.edu/economics/econ-159/lecture-24</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall07/econ159/mp3/econ159_24_120507.mp3" type="audio/mpeg" length="59971670"/>
       <pubDate>Tue, 25 Sep 2007 00:00:00 +0000</pubDate>
@@ -2558,7 +2558,7 @@
     <item>
       <title>CHEM 125a: Lecture 3</title>
       <description>Freshman Organic Chemistry I: Double Minima, Earnshaw&amp;#39;s Theorem and Plum-Puddings</description>
-      <itunes:summary>Freshman Organic Chemistry I: Double Minima, Earnshaw&amp;#39;s Theorem and Plum-Puddings</itunes:summary>
+      <itunes:summary>Freshman Organic Chemistry I: Double Minima, Earnshaw's Theorem and Plum-Puddings</itunes:summary>
       <link>https://oyc.yale.edu/chemistry/chem-125a/lecture-3</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_03_090808.mp3" type="audio/mpeg" length="43246197"/>
       <pubDate>Wed, 3 Sep 2008 00:00:00 +0000</pubDate>
@@ -2834,7 +2834,7 @@
     <item>
       <title>CHEM 125a: Lecture 26</title>
       <description>Freshman Organic Chemistry I: Van&amp;#39;t Hoff&amp;#39;s Tetrahedral Carbon and Chirality</description>
-      <itunes:summary>Freshman Organic Chemistry I: Van&amp;#39;t Hoff&amp;#39;s Tetrahedral Carbon and Chirality</itunes:summary>
+      <itunes:summary>Freshman Organic Chemistry I: Van't Hoff's Tetrahedral Carbon and Chirality</itunes:summary>
       <link>https://oyc.yale.edu/chemistry/chem-125a/lecture-26</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall08/chem125/mp3/chem125_26_110508.mp3" type="audio/mpeg" length="46499173"/>
       <pubDate>Sun, 28 Sep 2008 00:00:00 +0000</pubDate>
@@ -3278,7 +3278,7 @@
     <item>
       <title>HIST 251: Lecture 2</title>
       <description>Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts: &amp;quot;The Tree of Commonwealth&amp;quot;: The Social Order in the Sixteenth Century</description>
-      <itunes:summary>Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts: &amp;quot;The Tree of Commonwealth&amp;quot;: The Social Order in the Sixteenth Century</itunes:summary>
+      <itunes:summary>Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts: "The Tree of Commonwealth": The Social Order in the Sixteenth Century</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-251/lecture-2</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/hist251/mp3/hist251_02_090809.mp3" type="audio/mpeg" length="41861498"/>
       <pubDate>Wed, 2 Sep 2009 00:00:00 +0000</pubDate>
@@ -3314,7 +3314,7 @@
     <item>
       <title>HIST 251: Lecture 5</title>
       <description>Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts: &amp;quot;Countries&amp;quot; and Nation: Social and Economic Networks and the Urban System</description>
-      <itunes:summary>Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts: &amp;quot;Countries&amp;quot; and Nation: Social and Economic Networks and the Urban System</itunes:summary>
+      <itunes:summary>Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts: "Countries" and Nation: Social and Economic Networks and the Urban System</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-251/lecture-5</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/hist251/mp3/hist251_05_091709.mp3" type="audio/mpeg" length="43927052"/>
       <pubDate>Sat, 5 Sep 2009 00:00:00 +0000</pubDate>
@@ -3362,7 +3362,7 @@
     <item>
       <title>HIST 251: Lecture 9</title>
       <description>Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts: &amp;quot;Commodity&amp;quot; and &amp;quot;Commonwealth&amp;quot;: Economic and Social Problems, 1520-1560</description>
-      <itunes:summary>Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts: &amp;quot;Commodity&amp;quot; and &amp;quot;Commonwealth&amp;quot;: Economic and Social Problems, 1520-1560</itunes:summary>
+      <itunes:summary>Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts: "Commodity" and "Commonwealth": Economic and Social Problems, 1520-1560</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-251/lecture-9</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/hist251/mp3/hist251_09_100109.mp3" type="audio/mpeg" length="44831934"/>
       <pubDate>Wed, 9 Sep 2009 00:00:00 +0000</pubDate>
@@ -3386,7 +3386,7 @@
     <item>
       <title>HIST 251: Lecture 11</title>
       <description>Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts: The Elizabethan &amp;quot;Monarchical Republic&amp;quot;: Political Participation</description>
-      <itunes:summary>Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts: The Elizabethan &amp;quot;Monarchical Republic&amp;quot;: Political Participation</itunes:summary>
+      <itunes:summary>Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts: The Elizabethan "Monarchical Republic": Political Participation</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-251/lecture-11</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/hist251/mp3/hist251_11_100809.mp3" type="audio/mpeg" length="42462105"/>
       <pubDate>Fri, 11 Sep 2009 00:00:00 +0000</pubDate>
@@ -3590,7 +3590,7 @@
     <item>
       <title>PLSC 270: Lecture 3</title>
       <description>Capitalism: Success, Crisis, and Reform: Counting the Fingers of Adam Smith&amp;#39;s Invisible Hand</description>
-      <itunes:summary>Capitalism: Success, Crisis, and Reform: Counting the Fingers of Adam Smith&amp;#39;s Invisible Hand</itunes:summary>
+      <itunes:summary>Capitalism: Success, Crisis, and Reform: Counting the Fingers of Adam Smith's Invisible Hand</itunes:summary>
       <link>https://oyc.yale.edu/political-science/plsc-270/lecture-3</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/plsc270/mp3/plsc270_03_090909.mp3" type="audio/mpeg" length="43891944"/>
       <pubDate>Thu, 3 Sep 2009 00:00:00 +0000</pubDate>
@@ -3734,7 +3734,7 @@
     <item>
       <title>PLSC 270: Lecture 16</title>
       <description>Capitalism: Success, Crisis, and Reform: Braudel&amp;#39;s Bell Jar</description>
-      <itunes:summary>Capitalism: Success, Crisis, and Reform: Braudel&amp;#39;s Bell Jar</itunes:summary>
+      <itunes:summary>Capitalism: Success, Crisis, and Reform: Braudel's Bell Jar</itunes:summary>
       <link>https://oyc.yale.edu/political-science/plsc-270/lecture-16</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/plsc270/mp3/plsc270_16_102809.mp3" type="audio/mpeg" length="43938337"/>
       <pubDate>Wed, 16 Sep 2009 00:00:00 +0000</pubDate>
@@ -3938,7 +3938,7 @@
     <item>
       <title>SOCY 151: Lecture 9</title>
       <description>Foundations of Modern Social Theory: Marx&amp;#39;s Theory of Alienation</description>
-      <itunes:summary>Foundations of Modern Social Theory: Marx&amp;#39;s Theory of Alienation</itunes:summary>
+      <itunes:summary>Foundations of Modern Social Theory: Marx's Theory of Alienation</itunes:summary>
       <link>https://oyc.yale.edu/sociology/socy-151/lecture-9</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_09_100109.mp3" type="audio/mpeg" length="46137221"/>
       <pubDate>Wed, 9 Sep 2009 00:00:00 +0000</pubDate>
@@ -3950,7 +3950,7 @@
     <item>
       <title>SOCY 151: Lecture 10</title>
       <description>Foundations of Modern Social Theory: Marx&amp;#39;s Theory of Historical Materialism</description>
-      <itunes:summary>Foundations of Modern Social Theory: Marx&amp;#39;s Theory of Historical Materialism</itunes:summary>
+      <itunes:summary>Foundations of Modern Social Theory: Marx's Theory of Historical Materialism</itunes:summary>
       <link>https://oyc.yale.edu/sociology/socy-151/lecture-10</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_10_100609.mp3" type="audio/mpeg" length="48372048"/>
       <pubDate>Thu, 10 Sep 2009 00:00:00 +0000</pubDate>
@@ -3962,7 +3962,7 @@
     <item>
       <title>SOCY 151: Lecture 11</title>
       <description>Foundations of Modern Social Theory: Marx&amp;#39;s Theory of Historical Materialism (cont.)</description>
-      <itunes:summary>Foundations of Modern Social Theory: Marx&amp;#39;s Theory of Historical Materialism (cont.)</itunes:summary>
+      <itunes:summary>Foundations of Modern Social Theory: Marx's Theory of Historical Materialism (cont.)</itunes:summary>
       <link>https://oyc.yale.edu/sociology/socy-151/lecture-11</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_11_100809.mp3" type="audio/mpeg" length="46925910"/>
       <pubDate>Fri, 11 Sep 2009 00:00:00 +0000</pubDate>
@@ -3974,7 +3974,7 @@
     <item>
       <title>SOCY 151: Lecture 12</title>
       <description>Foundations of Modern Social Theory: Marx&amp;#39;s Theory of History</description>
-      <itunes:summary>Foundations of Modern Social Theory: Marx&amp;#39;s Theory of History</itunes:summary>
+      <itunes:summary>Foundations of Modern Social Theory: Marx's Theory of History</itunes:summary>
       <link>https://oyc.yale.edu/sociology/socy-151/lecture-12</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_12_101309.mp3" type="audio/mpeg" length="49438680"/>
       <pubDate>Sat, 12 Sep 2009 00:00:00 +0000</pubDate>
@@ -3986,7 +3986,7 @@
     <item>
       <title>SOCY 151: Lecture 13</title>
       <description>Foundations of Modern Social Theory: Marx&amp;#39;s Theory of Class and Exploitation</description>
-      <itunes:summary>Foundations of Modern Social Theory: Marx&amp;#39;s Theory of Class and Exploitation</itunes:summary>
+      <itunes:summary>Foundations of Modern Social Theory: Marx's Theory of Class and Exploitation</itunes:summary>
       <link>https://oyc.yale.edu/sociology/socy-151/lecture-13</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_13_101509.mp3" type="audio/mpeg" length="49160320"/>
       <pubDate>Sun, 13 Sep 2009 00:00:00 +0000</pubDate>
@@ -4034,7 +4034,7 @@
     <item>
       <title>SOCY 151: Lecture 17</title>
       <description>Foundations of Modern Social Theory: Conceptual Foundations of Weber&amp;#39;s Theory of Domination</description>
-      <itunes:summary>Foundations of Modern Social Theory: Conceptual Foundations of Weber&amp;#39;s Theory of Domination</itunes:summary>
+      <itunes:summary>Foundations of Modern Social Theory: Conceptual Foundations of Weber's Theory of Domination</itunes:summary>
       <link>https://oyc.yale.edu/sociology/socy-151/lecture-17</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_17_102909.mp3" type="audio/mpeg" length="50655778"/>
       <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
@@ -4082,7 +4082,7 @@
     <item>
       <title>SOCY 151: Lecture 21</title>
       <description>Foundations of Modern Social Theory: Weber&amp;#39;s Theory of Class</description>
-      <itunes:summary>Foundations of Modern Social Theory: Weber&amp;#39;s Theory of Class</itunes:summary>
+      <itunes:summary>Foundations of Modern Social Theory: Weber's Theory of Class</itunes:summary>
       <link>https://oyc.yale.edu/sociology/socy-151/lecture-21</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_21_111209.mp3" type="audio/mpeg" length="42834925"/>
       <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
@@ -4106,7 +4106,7 @@
     <item>
       <title>SOCY 151: Lecture 23</title>
       <description>Foundations of Modern Social Theory: Durkheim&amp;#39;s Theory of Anomie</description>
-      <itunes:summary>Foundations of Modern Social Theory: Durkheim&amp;#39;s Theory of Anomie</itunes:summary>
+      <itunes:summary>Foundations of Modern Social Theory: Durkheim's Theory of Anomie</itunes:summary>
       <link>https://oyc.yale.edu/sociology/socy-151/lecture-23</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/socy151/mp3/socy151_23_111909.mp3" type="audio/mpeg" length="44823575"/>
       <pubDate>Wed, 23 Sep 2009 00:00:00 +0000</pubDate>
@@ -4142,7 +4142,7 @@
     <item>
       <title>SPAN 300: Lecture 1</title>
       <description>Cervantes&amp;#39; Don Quixote: Introduction</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Introduction</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Introduction</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-1</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_01_090309.mp3" type="audio/mpeg" length="56158628"/>
       <pubDate>Tue, 1 Sep 2009 00:00:00 +0000</pubDate>
@@ -4154,7 +4154,7 @@
     <item>
       <title>SPAN 300: Lecture 2</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Front Matter and Chapters I-X</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Front Matter and Chapters I-X</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part I: Front Matter and Chapters I-X</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-2</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_02_090809.mp3" type="audio/mpeg" length="54940277"/>
       <pubDate>Wed, 2 Sep 2009 00:00:00 +0000</pubDate>
@@ -4166,7 +4166,7 @@
     <item>
       <title>SPAN 300: Lecture 3</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters I-X (cont.)</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters I-X (cont.)</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part I: Chapters I-X (cont.)</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-3</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_03_091009.mp3" type="audio/mpeg" length="65940127"/>
       <pubDate>Thu, 3 Sep 2009 00:00:00 +0000</pubDate>
@@ -4178,7 +4178,7 @@
     <item>
       <title>SPAN 300: Lecture 4</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters XI-XX</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters XI-XX</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part I: Chapters XI-XX</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-4</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_04_091509.mp3" type="audio/mpeg" length="52468885"/>
       <pubDate>Fri, 4 Sep 2009 00:00:00 +0000</pubDate>
@@ -4190,7 +4190,7 @@
     <item>
       <title>SPAN 300: Lecture 5</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters XI-XX (cont.)</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters XI-XX (cont.)</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part I: Chapters XI-XX (cont.)</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-5</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_05_091709.mp3" type="audio/mpeg" length="58602854"/>
       <pubDate>Sat, 5 Sep 2009 00:00:00 +0000</pubDate>
@@ -4202,7 +4202,7 @@
     <item>
       <title>SPAN 300: Lecture 6</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters XXI-XXVI</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters XXI-XXVI</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part I: Chapters XXI-XXVI</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-6</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_06_092209.mp3" type="audio/mpeg" length="61014060"/>
       <pubDate>Sun, 6 Sep 2009 00:00:00 +0000</pubDate>
@@ -4214,7 +4214,7 @@
     <item>
       <title>SPAN 300: Lecture 7</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters XXI-XXVI (cont.)</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters XXI-XXVI (cont.)</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part I: Chapters XXI-XXVI (cont.)</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-7</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_07_092409.mp3" type="audio/mpeg" length="58411428"/>
       <pubDate>Mon, 7 Sep 2009 00:00:00 +0000</pubDate>
@@ -4226,7 +4226,7 @@
     <item>
       <title>SPAN 300: Lecture 8</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters XXVII-XXXV</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters XXVII-XXXV</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part I: Chapters XXVII-XXXV</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-8</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_08_092909.mp3" type="audio/mpeg" length="59200535"/>
       <pubDate>Tue, 8 Sep 2009 00:00:00 +0000</pubDate>
@@ -4238,7 +4238,7 @@
     <item>
       <title>SPAN 300: Lecture 9</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters XXVII-XXXV (cont.)</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters XXVII-XXXV (cont.)</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part I: Chapters XXVII-XXXV (cont.)</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-9</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_09_100109.mp3" type="audio/mpeg" length="54889286"/>
       <pubDate>Wed, 9 Sep 2009 00:00:00 +0000</pubDate>
@@ -4250,7 +4250,7 @@
     <item>
       <title>SPAN 300: Lecture 10</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters XXXVI-LII</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters XXXVI-LII</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part I: Chapters XXXVI-LII</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-10</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_10_100609.mp3" type="audio/mpeg" length="55853518"/>
       <pubDate>Thu, 10 Sep 2009 00:00:00 +0000</pubDate>
@@ -4262,7 +4262,7 @@
     <item>
       <title>SPAN 300: Lecture 11</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters XXXVI-LII (cont.)</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part I: Chapters XXXVI-LII (cont.)</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part I: Chapters XXXVI-LII (cont.)</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-11</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_11_100809.mp3" type="audio/mpeg" length="55425110"/>
       <pubDate>Fri, 11 Sep 2009 00:00:00 +0000</pubDate>
@@ -4274,7 +4274,7 @@
     <item>
       <title>SPAN 300: Lecture 12</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Introduction to Part II</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Introduction to Part II</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Introduction to Part II</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-12</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_12_101509.mp3" type="audio/mpeg" length="51009371"/>
       <pubDate>Sat, 12 Sep 2009 00:00:00 +0000</pubDate>
@@ -4286,7 +4286,7 @@
     <item>
       <title>SPAN 300: Lecture 13</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Front Matter and Chapters I-XI</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Front Matter and Chapters I-XI</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part II: Front Matter and Chapters I-XI</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-13</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_13_102009.mp3" type="audio/mpeg" length="55159706"/>
       <pubDate>Sun, 13 Sep 2009 00:00:00 +0000</pubDate>
@@ -4298,7 +4298,7 @@
     <item>
       <title>SPAN 300: Lecture 14</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Front Matter and Chapters I-XI (cont.)</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Front Matter and Chapters I-XI (cont.)</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part II: Front Matter and Chapters I-XI (cont.)</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-14</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_14_102209.mp3" type="audio/mpeg" length="60546782"/>
       <pubDate>Mon, 14 Sep 2009 00:00:00 +0000</pubDate>
@@ -4310,7 +4310,7 @@
     <item>
       <title>SPAN 300: Lecture 15</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters XII-XXI</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters XII-XXI</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part II: Chapters XII-XXI</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-15</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_15_102709.mp3" type="audio/mpeg" length="58428983"/>
       <pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate>
@@ -4322,7 +4322,7 @@
     <item>
       <title>SPAN 300: Lecture 16</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters XII-XXI (cont.)</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters XII-XXI (cont.)</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part II: Chapters XII-XXI (cont.)</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-16</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_16_102909.mp3" type="audio/mpeg" length="52235663"/>
       <pubDate>Wed, 16 Sep 2009 00:00:00 +0000</pubDate>
@@ -4334,7 +4334,7 @@
     <item>
       <title>SPAN 300: Lecture 17</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters XXII-XXXV</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters XXII-XXXV</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part II: Chapters XXII-XXXV</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-17</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_17_110309.mp3" type="audio/mpeg" length="57878530"/>
       <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
@@ -4346,7 +4346,7 @@
     <item>
       <title>SPAN 300: Lecture 18</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters XXII-XXXV (cont.)</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters XXII-XXXV (cont.)</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part II: Chapters XXII-XXXV (cont.)</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-18</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_18_110509.mp3" type="audio/mpeg" length="56633012"/>
       <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
@@ -4358,7 +4358,7 @@
     <item>
       <title>SPAN 300: Lecture 19</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters XXXVI-LIII</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters XXXVI-LIII</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part II: Chapters XXXVI-LIII</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-19</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_19_111009.mp3" type="audio/mpeg" length="59391125"/>
       <pubDate>Sat, 19 Sep 2009 00:00:00 +0000</pubDate>
@@ -4370,7 +4370,7 @@
     <item>
       <title>SPAN 300: Lecture 20</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters XXXVI-LIII (cont.)</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters XXXVI-LIII (cont.)</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part II: Chapters XXXVI-LIII (cont.)</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-20</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_20_111209.mp3" type="audio/mpeg" length="54612179"/>
       <pubDate>Sun, 20 Sep 2009 00:00:00 +0000</pubDate>
@@ -4382,7 +4382,7 @@
     <item>
       <title>SPAN 300: Lecture 21</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters LIV-LXX</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters LIV-LXX</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part II: Chapters LIV-LXX</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-21</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_21_111709.mp3" type="audio/mpeg" length="53329880"/>
       <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
@@ -4394,7 +4394,7 @@
     <item>
       <title>SPAN 300: Lecture 22</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters LIV-LXX (cont.)</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters LIV-LXX (cont.)</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part II: Chapters LIV-LXX (cont.)</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-22</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_22_111909.mp3" type="audio/mpeg" length="56528940"/>
       <pubDate>Tue, 22 Sep 2009 00:00:00 +0000</pubDate>
@@ -4406,7 +4406,7 @@
     <item>
       <title>SPAN 300: Lecture 23</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters LXXI-LXXIV</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters LXXI-LXXIV</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part II: Chapters LXXI-LXXIV</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-23</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_23_120109.mp3" type="audio/mpeg" length="57236963"/>
       <pubDate>Wed, 23 Sep 2009 00:00:00 +0000</pubDate>
@@ -4418,7 +4418,7 @@
     <item>
       <title>SPAN 300: Lecture 24</title>
       <description>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters LXXI-LXXIV (cont.)</description>
-      <itunes:summary>Cervantes&amp;#39; Don Quixote: Don Quixote, Part II: Chapters LXXI-LXXIV (cont.)</itunes:summary>
+      <itunes:summary>Cervantes' Don Quixote: Don Quixote, Part II: Chapters LXXI-LXXIV (cont.)</itunes:summary>
       <link>https://oyc.yale.edu/spanish-and-portuguese/span-300/lecture-24</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/span300/mp3/span300_24_120309.mp3" type="audio/mpeg" length="62311824"/>
       <pubDate>Thu, 24 Sep 2009 00:00:00 +0000</pubDate>
@@ -4490,7 +4490,7 @@
     <item>
       <title>ECON 251: Lecture 6</title>
       <description>Financial Theory: Irving Fisher&amp;#39;s Impatience Theory of Interest</description>
-      <itunes:summary>Financial Theory: Irving Fisher&amp;#39;s Impatience Theory of Interest</itunes:summary>
+      <itunes:summary>Financial Theory: Irving Fisher's Impatience Theory of Interest</itunes:summary>
       <link>https://oyc.yale.edu/economics/econ-251/lecture-6</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_06_092209.mp3" type="audio/mpeg" length="68098887"/>
       <pubDate>Sun, 6 Sep 2009 00:00:00 +0000</pubDate>
@@ -4502,7 +4502,7 @@
     <item>
       <title>ECON 251: Lecture 7</title>
       <description>Financial Theory: Shakespeare&amp;#39;s Merchant of Venice and Collateral, Present Value and the Vocabulary of Finance</description>
-      <itunes:summary>Financial Theory: Shakespeare&amp;#39;s Merchant of Venice and Collateral, Present Value and the Vocabulary of Finance</itunes:summary>
+      <itunes:summary>Financial Theory: Shakespeare's Merchant of Venice and Collateral, Present Value and the Vocabulary of Finance</itunes:summary>
       <link>https://oyc.yale.edu/economics/econ-251/lecture-7</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall09/econ251/mp3/econ251_07_092409.mp3" type="audio/mpeg" length="75427383"/>
       <pubDate>Mon, 7 Sep 2009 00:00:00 +0000</pubDate>
@@ -5438,7 +5438,7 @@
     <item>
       <title>AMST 246: Lecture 2</title>
       <description>Hemingway, Fitzgerald, Faulkner: Hemingway&amp;#39;s In Our Time</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Hemingway&amp;#39;s In Our Time</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Hemingway's In Our Time</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-2</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_02_090511.mp3" type="audio/mpeg" length="47919399"/>
       <pubDate>Fri, 2 Sep 2011 00:00:00 +0000</pubDate>
@@ -5450,7 +5450,7 @@
     <item>
       <title>AMST 246: Lecture 3</title>
       <description>Hemingway, Fitzgerald, Faulkner: Hemingway&amp;#39;s In Our Time, Part II</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Hemingway&amp;#39;s In Our Time, Part II</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Hemingway's In Our Time, Part II</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-3</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_03_090811.mp3" type="audio/mpeg" length="48058579"/>
       <pubDate>Sat, 3 Sep 2011 00:00:00 +0000</pubDate>
@@ -5462,7 +5462,7 @@
     <item>
       <title>AMST 246: Lecture 4</title>
       <description>Hemingway, Fitzgerald, Faulkner: Fitzgerald&amp;#39;s The Great Gatsby</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Fitzgerald&amp;#39;s The Great Gatsby</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Fitzgerald's The Great Gatsby</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-4</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_04_091311.mp3" type="audio/mpeg" length="46968959"/>
       <pubDate>Sun, 4 Sep 2011 00:00:00 +0000</pubDate>
@@ -5474,7 +5474,7 @@
     <item>
       <title>AMST 246: Lecture 5</title>
       <description>Hemingway, Fitzgerald, Faulkner: Fitzgerald&amp;#39;s The Great Gatsby, Part II</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Fitzgerald&amp;#39;s The Great Gatsby, Part II</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Fitzgerald's The Great Gatsby, Part II</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-5</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_05_091511.mp3" type="audio/mpeg" length="48137155"/>
       <pubDate>Mon, 5 Sep 2011 00:00:00 +0000</pubDate>
@@ -5486,7 +5486,7 @@
     <item>
       <title>AMST 246: Lecture 6</title>
       <description>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s The Sound and the Fury</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s The Sound and the Fury</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner's The Sound and the Fury</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-6</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_06_092011.mp3" type="audio/mpeg" length="48100793"/>
       <pubDate>Tue, 6 Sep 2011 00:00:00 +0000</pubDate>
@@ -5498,7 +5498,7 @@
     <item>
       <title>AMST 246: Lecture 7</title>
       <description>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s The Sound and the Fury, Part II</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s The Sound and the Fury, Part II</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner's The Sound and the Fury, Part II</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-7</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_07_092211.mp3" type="audio/mpeg" length="46414746"/>
       <pubDate>Wed, 7 Sep 2011 00:00:00 +0000</pubDate>
@@ -5510,7 +5510,7 @@
     <item>
       <title>AMST 246: Lecture 8</title>
       <description>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s The Sound and the Fury, Part III</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s The Sound and the Fury, Part III</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner's The Sound and the Fury, Part III</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-8</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_08_092711.mp3" type="audio/mpeg" length="44135614"/>
       <pubDate>Thu, 8 Sep 2011 00:00:00 +0000</pubDate>
@@ -5522,7 +5522,7 @@
     <item>
       <title>AMST 246: Lecture 9</title>
       <description>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s The Sound and the Fury, Part IV</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s The Sound and the Fury, Part IV</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner's The Sound and the Fury, Part IV</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-9</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_09_092911.mp3" type="audio/mpeg" length="49013198"/>
       <pubDate>Fri, 9 Sep 2011 00:00:00 +0000</pubDate>
@@ -5534,7 +5534,7 @@
     <item>
       <title>AMST 246: Lecture 10</title>
       <description>Hemingway, Fitzgerald, Faulkner: Hemingway&amp;#39;s To Have and Have Not</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Hemingway&amp;#39;s To Have and Have Not</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Hemingway's To Have and Have Not</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-10</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_10_100411.mp3" type="audio/mpeg" length="46590288"/>
       <pubDate>Sat, 10 Sep 2011 00:00:00 +0000</pubDate>
@@ -5546,7 +5546,7 @@
     <item>
       <title>AMST 246: Lecture 11</title>
       <description>Hemingway, Fitzgerald, Faulkner: Hemingway&amp;#39;s To Have and Have Not, Part II</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Hemingway&amp;#39;s To Have and Have Not, Part II</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Hemingway's To Have and Have Not, Part II</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-11</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_11_100611.mp3" type="audio/mpeg" length="46382145"/>
       <pubDate>Sun, 11 Sep 2011 00:00:00 +0000</pubDate>
@@ -5558,7 +5558,7 @@
     <item>
       <title>AMST 246: Lecture 12</title>
       <description>Hemingway, Fitzgerald, Faulkner: Fitzgerald&amp;#39;s Short Stories</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Fitzgerald&amp;#39;s Short Stories</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Fitzgerald's Short Stories</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-12</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_12_101111.mp3" type="audio/mpeg" length="47507291"/>
       <pubDate>Mon, 12 Sep 2011 00:00:00 +0000</pubDate>
@@ -5570,7 +5570,7 @@
     <item>
       <title>AMST 246: Lecture 13</title>
       <description>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s As I Lay Dying</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s As I Lay Dying</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner's As I Lay Dying</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-13</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_13_101311.mp3" type="audio/mpeg" length="46359993"/>
       <pubDate>Tue, 13 Sep 2011 00:00:00 +0000</pubDate>
@@ -5582,7 +5582,7 @@
     <item>
       <title>AMST 246: Lecture 14</title>
       <description>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s As I Lay Dying, Part II</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s As I Lay Dying, Part II</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner's As I Lay Dying, Part II</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-14</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_14_101811.mp3" type="audio/mpeg" length="46607425"/>
       <pubDate>Wed, 14 Sep 2011 00:00:00 +0000</pubDate>
@@ -5594,7 +5594,7 @@
     <item>
       <title>AMST 246: Lecture 15</title>
       <description>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s As I Lay Dying, Part III</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s As I Lay Dying, Part III</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner's As I Lay Dying, Part III</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-15</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_15_102011.mp3" type="audio/mpeg" length="47829955"/>
       <pubDate>Thu, 15 Sep 2011 00:00:00 +0000</pubDate>
@@ -5606,7 +5606,7 @@
     <item>
       <title>AMST 246: Lecture 16</title>
       <description>Hemingway, Fitzgerald, Faulkner: Hemingway&amp;#39;s For Whom the Bell Tolls</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Hemingway&amp;#39;s For Whom the Bell Tolls</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Hemingway's For Whom the Bell Tolls</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-16</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_16_102511.mp3" type="audio/mpeg" length="46739918"/>
       <pubDate>Fri, 16 Sep 2011 00:00:00 +0000</pubDate>
@@ -5618,7 +5618,7 @@
     <item>
       <title>AMST 246: Lecture 17</title>
       <description>Hemingway, Fitzgerald, Faulkner: Hemingway&amp;#39;s For Whom the Bell Tolls, Part II</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Hemingway&amp;#39;s For Whom the Bell Tolls, Part II</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Hemingway's For Whom the Bell Tolls, Part II</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-17</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_17_102711.mp3" type="audio/mpeg" length="43751510"/>
       <pubDate>Sat, 17 Sep 2011 00:00:00 +0000</pubDate>
@@ -5630,7 +5630,7 @@
     <item>
       <title>AMST 246: Lecture 18</title>
       <description>Hemingway, Fitzgerald, Faulkner: Hemingway&amp;#39;s For Whom the Bell Tolls, Part III</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Hemingway&amp;#39;s For Whom the Bell Tolls, Part III</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Hemingway's For Whom the Bell Tolls, Part III</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-18</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_18_110111.mp3" type="audio/mpeg" length="45419585"/>
       <pubDate>Sun, 18 Sep 2011 00:00:00 +0000</pubDate>
@@ -5642,7 +5642,7 @@
     <item>
       <title>AMST 246: Lecture 19</title>
       <description>Hemingway, Fitzgerald, Faulkner: Hemingway&amp;#39;s For Whom the Bell Tolls, Part IV</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Hemingway&amp;#39;s For Whom the Bell Tolls, Part IV</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Hemingway's For Whom the Bell Tolls, Part IV</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-19</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_19_110311.mp3" type="audio/mpeg" length="47136143"/>
       <pubDate>Mon, 19 Sep 2011 00:00:00 +0000</pubDate>
@@ -5654,7 +5654,7 @@
     <item>
       <title>AMST 246: Lecture 20</title>
       <description>Hemingway, Fitzgerald, Faulkner: Fitzgerald&amp;#39;s Tender Is the Night</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Fitzgerald&amp;#39;s Tender Is the Night</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Fitzgerald's Tender Is the Night</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-20</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_20_110811.mp3" type="audio/mpeg" length="45250311"/>
       <pubDate>Tue, 20 Sep 2011 00:00:00 +0000</pubDate>
@@ -5666,7 +5666,7 @@
     <item>
       <title>AMST 246: Lecture 21</title>
       <description>Hemingway, Fitzgerald, Faulkner: Fitzgerald&amp;#39;s Tender is the Night, Part II</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Fitzgerald&amp;#39;s Tender is the Night, Part II</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Fitzgerald's Tender is the Night, Part II</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-21</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_21_111011.mp3" type="audio/mpeg" length="49015288"/>
       <pubDate>Wed, 21 Sep 2011 00:00:00 +0000</pubDate>
@@ -5678,7 +5678,7 @@
     <item>
       <title>AMST 246: Lecture 22</title>
       <description>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s Light in August</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s Light in August</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner's Light in August</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-22</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_22_111511.mp3" type="audio/mpeg" length="47517322"/>
       <pubDate>Thu, 22 Sep 2011 00:00:00 +0000</pubDate>
@@ -5690,7 +5690,7 @@
     <item>
       <title>AMST 246: Lecture 23</title>
       <description>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s Light in August, Part II</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s Light in August, Part II</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner's Light in August, Part II</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-23</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_23_111711.mp3" type="audio/mpeg" length="47904770"/>
       <pubDate>Fri, 23 Sep 2011 00:00:00 +0000</pubDate>
@@ -5702,7 +5702,7 @@
     <item>
       <title>AMST 246: Lecture 24</title>
       <description>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s Light in August, Part III</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s Light in August, Part III</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner's Light in August, Part III</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-24</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_24_112911.mp3" type="audio/mpeg" length="48908708"/>
       <pubDate>Sat, 24 Sep 2011 00:00:00 +0000</pubDate>
@@ -5714,7 +5714,7 @@
     <item>
       <title>AMST 246: Lecture 25</title>
       <description>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s Light in August, Part IV</description>
-      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner&amp;#39;s Light in August, Part IV</itunes:summary>
+      <itunes:summary>Hemingway, Fitzgerald, Faulkner: Faulkner's Light in August, Part IV</itunes:summary>
       <link>https://oyc.yale.edu/american-studies/amst-246/lecture-25</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/fall11/amst246/mp3/amst246_25_120211.mp3" type="audio/mpeg" length="46592796"/>
       <pubDate>Sun, 25 Sep 2011 00:00:00 +0000</pubDate>
@@ -6074,7 +6074,7 @@
     <item>
       <title>PHIL 176: Lecture 4</title>
       <description>Death: Introduction to Plato&amp;#39;s Phaedo; Arguments for the Existence of the Soul, Part II</description>
-      <itunes:summary>Death: Introduction to Plato&amp;#39;s Phaedo; Arguments for the Existence of the Soul, Part II</itunes:summary>
+      <itunes:summary>Death: Introduction to Plato's Phaedo; Arguments for the Existence of the Soul, Part II</itunes:summary>
       <link>https://oyc.yale.edu/philosophy/phil-176/lecture-4</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/phil176/mp3//phil176_04_012507.mp3" type="audio/mpeg" length="47099781"/>
       <pubDate>Fri, 4 May 2007 00:00:00 +0000</pubDate>
@@ -6794,7 +6794,7 @@
     <item>
       <title>ASTR 160: Lecture 16</title>
       <description>Frontiers and Controversies in Astrophysics: Hubble&amp;#39;s Law and the Big Bang</description>
-      <itunes:summary>Frontiers and Controversies in Astrophysics: Hubble&amp;#39;s Law and the Big Bang</itunes:summary>
+      <itunes:summary>Frontiers and Controversies in Astrophysics: Hubble's Law and the Big Bang</itunes:summary>
       <link>https://oyc.yale.edu/astronomy/astr-160/lecture-16</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_16_032907.mp3" type="audio/mpeg" length="48777887"/>
       <pubDate>Sun, 20 May 2007 00:00:00 +0000</pubDate>
@@ -6806,7 +6806,7 @@
     <item>
       <title>ASTR 160: Lecture 17</title>
       <description>Frontiers and Controversies in Astrophysics: Hubble&amp;#39;s Law and the Big Bang (cont.)</description>
-      <itunes:summary>Frontiers and Controversies in Astrophysics: Hubble&amp;#39;s Law and the Big Bang (cont.)</itunes:summary>
+      <itunes:summary>Frontiers and Controversies in Astrophysics: Hubble's Law and the Big Bang (cont.)</itunes:summary>
       <link>https://oyc.yale.edu/astronomy/astr-160/lecture-17</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_17_040307.mp3" type="audio/mpeg" length="49772212"/>
       <pubDate>Mon, 21 May 2007 00:00:00 +0000</pubDate>
@@ -6818,7 +6818,7 @@
     <item>
       <title>ASTR 160: Lecture 18</title>
       <description>Frontiers and Controversies in Astrophysics: Hubble&amp;#39;s Law and the Big Bang (cont.)</description>
-      <itunes:summary>Frontiers and Controversies in Astrophysics: Hubble&amp;#39;s Law and the Big Bang (cont.)</itunes:summary>
+      <itunes:summary>Frontiers and Controversies in Astrophysics: Hubble's Law and the Big Bang (cont.)</itunes:summary>
       <link>https://oyc.yale.edu/astronomy/astr-160/lecture-18</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring07/astr160/mp3/astr160_18_040507.mp3" type="audio/mpeg" length="48202775"/>
       <pubDate>Tue, 22 May 2007 00:00:00 +0000</pubDate>
@@ -6938,7 +6938,7 @@
     <item>
       <title>ENGL 291: Lecture 3</title>
       <description>The American Novel Since 1945: Flannery O&amp;#39;Connor, Wise Blood</description>
-      <itunes:summary>The American Novel Since 1945: Flannery O&amp;#39;Connor, Wise Blood</itunes:summary>
+      <itunes:summary>The American Novel Since 1945: Flannery O'Connor, Wise Blood</itunes:summary>
       <link>https://oyc.yale.edu/english/engl-291/lecture-3</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/engl291/mp3/engl291_03_011808.mp3" type="audio/mpeg" length="56539909"/>
       <pubDate>Sat, 3 May 2008 00:00:00 +0000</pubDate>
@@ -6950,7 +6950,7 @@
     <item>
       <title>ENGL 291: Lecture 4</title>
       <description>The American Novel Since 1945: Flannery O&amp;#39;Connor, Wise Blood (cont.)</description>
-      <itunes:summary>The American Novel Since 1945: Flannery O&amp;#39;Connor, Wise Blood (cont.)</itunes:summary>
+      <itunes:summary>The American Novel Since 1945: Flannery O'Connor, Wise Blood (cont.)</itunes:summary>
       <link>https://oyc.yale.edu/english/engl-291/lecture-4</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/engl291/mp3/engl291_04_012308.mp3" type="audio/mpeg" length="53713982"/>
       <pubDate>Sun, 4 May 2008 00:00:00 +0000</pubDate>
@@ -7190,7 +7190,7 @@
     <item>
       <title>ENGL 291: Lecture 24</title>
       <description>The American Novel Since 1945: Students&amp;#39; Choice Novel: Jonathan Safran Foer, Everything is Illuminated</description>
-      <itunes:summary>The American Novel Since 1945: Students&amp;#39; Choice Novel: Jonathan Safran Foer, Everything is Illuminated</itunes:summary>
+      <itunes:summary>The American Novel Since 1945: Students' Choice Novel: Jonathan Safran Foer, Everything is Illuminated</itunes:summary>
       <link>https://oyc.yale.edu/english/engl-291/lecture-24</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/engl291/mp3/engl291_24_042108.mp3" type="audio/mpeg" length="54958456"/>
       <pubDate>Sat, 24 May 2008 00:00:00 +0000</pubDate>
@@ -7202,7 +7202,7 @@
     <item>
       <title>ENGL 291: Lecture 25</title>
       <description>The American Novel Since 1945: Students&amp;#39; Choice Novel: Jonathan Safran Foer, Everything is Illuminated (cont.)</description>
-      <itunes:summary>The American Novel Since 1945: Students&amp;#39; Choice Novel: Jonathan Safran Foer, Everything is Illuminated (cont.)</itunes:summary>
+      <itunes:summary>The American Novel Since 1945: Students' Choice Novel: Jonathan Safran Foer, Everything is Illuminated (cont.)</itunes:summary>
       <link>https://oyc.yale.edu/english/engl-291/lecture-25</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/engl291/mp3/engl291_25_042408.mp3" type="audio/mpeg" length="58720088"/>
       <pubDate>Sun, 25 May 2008 00:00:00 +0000</pubDate>
@@ -7238,7 +7238,7 @@
     <item>
       <title>HIST 119: Lecture 2</title>
       <description>The Civil War and Reconstruction Era, 1845-1877: Southern Society: Slavery, King Cotton, and Antebellum America&amp;#39;s &amp;quot;Peculiar&amp;quot; Region</description>
-      <itunes:summary>The Civil War and Reconstruction Era, 1845-1877: Southern Society: Slavery, King Cotton, and Antebellum America&amp;#39;s &amp;quot;Peculiar&amp;quot; Region</itunes:summary>
+      <itunes:summary>The Civil War and Reconstruction Era, 1845-1877: Southern Society: Slavery, King Cotton, and Antebellum America's "Peculiar" Region</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-119/lecture-2</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/hist119/mp3/hist119_02_011708.mp3" type="audio/mpeg" length="49839503"/>
       <pubDate>Fri, 2 May 2008 00:00:00 +0000</pubDate>
@@ -7298,7 +7298,7 @@
     <item>
       <title>HIST 119: Lecture 7</title>
       <description>The Civil War and Reconstruction Era, 1845-1877: &amp;quot;A Hell of a Storm&amp;quot;: The Kansas-Nebraska Act and the Birth of the Republican Party, 1854-55</description>
-      <itunes:summary>The Civil War and Reconstruction Era, 1845-1877: &amp;quot;A Hell of a Storm&amp;quot;: The Kansas-Nebraska Act and the Birth of the Republican Party, 1854-55</itunes:summary>
+      <itunes:summary>The Civil War and Reconstruction Era, 1845-1877: "A Hell of a Storm": The Kansas-Nebraska Act and the Birth of the Republican Party, 1854-55</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-119/lecture-7</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/hist119/mp3/hist119_07_020508.mp3" type="audio/mpeg" length="45782791"/>
       <pubDate>Wed, 7 May 2008 00:00:00 +0000</pubDate>
@@ -7322,7 +7322,7 @@
     <item>
       <title>HIST 119: Lecture 9</title>
       <description>The Civil War and Reconstruction Era, 1845-1877: John Brown&amp;#39;s Holy War: Terrorist or Heroic Revolutionary?</description>
-      <itunes:summary>The Civil War and Reconstruction Era, 1845-1877: John Brown&amp;#39;s Holy War: Terrorist or Heroic Revolutionary?</itunes:summary>
+      <itunes:summary>The Civil War and Reconstruction Era, 1845-1877: John Brown's Holy War: Terrorist or Heroic Revolutionary?</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-119/lecture-9</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/hist119/mp3/hist119_09_021208.mp3" type="audio/mpeg" length="50295497"/>
       <pubDate>Fri, 9 May 2008 00:00:00 +0000</pubDate>
@@ -7358,7 +7358,7 @@
     <item>
       <title>HIST 119: Lecture 12</title>
       <description>The Civil War and Reconstruction Era, 1845-1877: &amp;quot;And the War Came,&amp;quot; 1861: The Sumter Crisis, Comparative Strategies</description>
-      <itunes:summary>The Civil War and Reconstruction Era, 1845-1877: &amp;quot;And the War Came,&amp;quot; 1861: The Sumter Crisis, Comparative Strategies</itunes:summary>
+      <itunes:summary>The Civil War and Reconstruction Era, 1845-1877: "And the War Came," 1861: The Sumter Crisis, Comparative Strategies</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-119/lecture-12</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/hist119/mp3/hist119_12_022108.mp3" type="audio/mpeg" length="44749178"/>
       <pubDate>Mon, 12 May 2008 00:00:00 +0000</pubDate>
@@ -7418,7 +7418,7 @@
     <item>
       <title>HIST 119: Lecture 17</title>
       <description>The Civil War and Reconstruction Era, 1845-1877: Homefronts and Battlefronts: &amp;quot;Hard War&amp;quot; and the Social Impact of the Civil War</description>
-      <itunes:summary>The Civil War and Reconstruction Era, 1845-1877: Homefronts and Battlefronts: &amp;quot;Hard War&amp;quot; and the Social Impact of the Civil War</itunes:summary>
+      <itunes:summary>The Civil War and Reconstruction Era, 1845-1877: Homefronts and Battlefronts: "Hard War" and the Social Impact of the Civil War</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-119/lecture-17</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/hist119/mp3/hist119_17_032508.mp3" type="audio/mpeg" length="48744450"/>
       <pubDate>Sat, 17 May 2008 00:00:00 +0000</pubDate>
@@ -7430,7 +7430,7 @@
     <item>
       <title>HIST 119: Lecture 18</title>
       <description>The Civil War and Reconstruction Era, 1845-1877: &amp;quot;War So Terrible&amp;quot;: Why the Union Won and the Confederacy Lost at Home and Abroad</description>
-      <itunes:summary>The Civil War and Reconstruction Era, 1845-1877: &amp;quot;War So Terrible&amp;quot;: Why the Union Won and the Confederacy Lost at Home and Abroad</itunes:summary>
+      <itunes:summary>The Civil War and Reconstruction Era, 1845-1877: "War So Terrible": Why the Union Won and the Confederacy Lost at Home and Abroad</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-119/lecture-18</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/hist119/mp3/hist119_18_032708.mp3" type="audio/mpeg" length="48316042"/>
       <pubDate>Sun, 18 May 2008 00:00:00 +0000</pubDate>
@@ -7502,7 +7502,7 @@
     <item>
       <title>HIST 119: Lecture 24</title>
       <description>The Civil War and Reconstruction Era, 1845-1877: Retreat from Reconstruction: The Grant Era and Paths to &amp;quot;Southern Redemption&amp;quot;</description>
-      <itunes:summary>The Civil War and Reconstruction Era, 1845-1877: Retreat from Reconstruction: The Grant Era and Paths to &amp;quot;Southern Redemption&amp;quot;</itunes:summary>
+      <itunes:summary>The Civil War and Reconstruction Era, 1845-1877: Retreat from Reconstruction: The Grant Era and Paths to "Southern Redemption"</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-119/lecture-24</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/hist119/mp3/hist119_24_041708.mp3" type="audio/mpeg" length="48036845"/>
       <pubDate>Sat, 24 May 2008 00:00:00 +0000</pubDate>
@@ -7514,7 +7514,7 @@
     <item>
       <title>HIST 119: Lecture 25</title>
       <description>The Civil War and Reconstruction Era, 1845-1877: The &amp;quot;End&amp;quot; of Reconstruction: Disputed Election of 1876, and the &amp;quot;Compromise of 1877&amp;quot;</description>
-      <itunes:summary>The Civil War and Reconstruction Era, 1845-1877: The &amp;quot;End&amp;quot; of Reconstruction: Disputed Election of 1876, and the &amp;quot;Compromise of 1877&amp;quot;</itunes:summary>
+      <itunes:summary>The Civil War and Reconstruction Era, 1845-1877: The "End" of Reconstruction: Disputed Election of 1876, and the "Compromise of 1877"</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-119/lecture-25</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring08/hist119/mp3/hist119_25_042208.mp3" type="audio/mpeg" length="50227787"/>
       <pubDate>Sun, 25 May 2008 00:00:00 +0000</pubDate>
@@ -8354,7 +8354,7 @@
     <item>
       <title>HSAR 252: Lecture 18</title>
       <description>Roman Architecture: Hometown Boy: Honoring an Emperor&amp;#39;s Roots in Roman North Africa</description>
-      <itunes:summary>Roman Architecture: Hometown Boy: Honoring an Emperor&amp;#39;s Roots in Roman North Africa</itunes:summary>
+      <itunes:summary>Roman Architecture: Hometown Boy: Honoring an Emperor's Roots in Roman North Africa</itunes:summary>
       <link>https://oyc.yale.edu/history-art/hsar-252/lecture-18</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring09/hsar252/mp3/hsar252_18_040209.mp3" type="audio/mpeg" length="70058697"/>
       <pubDate>Fri, 15 May 2009 00:00:00 +0000</pubDate>
@@ -8570,7 +8570,7 @@
     <item>
       <title>RLST 152: Lecture 17</title>
       <description>Introduction to the New Testament History and Literature: Paul&amp;#39;s Disciples</description>
-      <itunes:summary>Introduction to the New Testament History and Literature: Paul&amp;#39;s Disciples</itunes:summary>
+      <itunes:summary>Introduction to the New Testament History and Literature: Paul's Disciples</itunes:summary>
       <link>https://oyc.yale.edu/religious-studies/rlst-152/lecture-17</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring09/rlst152/mp3/rlst152_17_032309.mp3" type="audio/mpeg" length="47866318"/>
       <pubDate>Sun, 17 May 2009 00:00:00 +0000</pubDate>
@@ -8594,7 +8594,7 @@
     <item>
       <title>RLST 152: Lecture 19</title>
       <description>Introduction to the New Testament History and Literature: The &amp;quot;Household&amp;quot; Paul: the Pastorals</description>
-      <itunes:summary>Introduction to the New Testament History and Literature: The &amp;quot;Household&amp;quot; Paul: the Pastorals</itunes:summary>
+      <itunes:summary>Introduction to the New Testament History and Literature: The "Household" Paul: the Pastorals</itunes:summary>
       <link>https://oyc.yale.edu/religious-studies/rlst-152/lecture-19</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring09/rlst152/mp3/rlst152_19_033009.mp3" type="audio/mpeg" length="44212519"/>
       <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
@@ -8606,7 +8606,7 @@
     <item>
       <title>RLST 152: Lecture 20</title>
       <description>Introduction to the New Testament History and Literature: The &amp;quot;Anti-household&amp;quot; Paul: Thecla</description>
-      <itunes:summary>Introduction to the New Testament History and Literature: The &amp;quot;Anti-household&amp;quot; Paul: Thecla</itunes:summary>
+      <itunes:summary>Introduction to the New Testament History and Literature: The "Anti-household" Paul: Thecla</itunes:summary>
       <link>https://oyc.yale.edu/religious-studies/rlst-152/lecture-20</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring09/rlst152/mp3/rlst152_20_040109.mp3" type="audio/mpeg" length="46622053"/>
       <pubDate>Wed, 20 May 2009 00:00:00 +0000</pubDate>
@@ -8678,7 +8678,7 @@
     <item>
       <title>RLST 152: Lecture 26</title>
       <description>Introduction to the New Testament History and Literature: The &amp;quot;Afterlife&amp;quot; of the New Testament and Postmodern Interpretation</description>
-      <itunes:summary>Introduction to the New Testament History and Literature: The &amp;quot;Afterlife&amp;quot; of the New Testament and Postmodern Interpretation</itunes:summary>
+      <itunes:summary>Introduction to the New Testament History and Literature: The "Afterlife" of the New Testament and Postmodern Interpretation</itunes:summary>
       <link>https://oyc.yale.edu/religious-studies/rlst-152/lecture-26</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring09/rlst152/mp3/rlst152_26_042209.mp3" type="audio/mpeg" length="45768163"/>
       <pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
@@ -8906,7 +8906,7 @@
     <item>
       <title>EEB 122: Lecture 19</title>
       <description>Principles of Evolution, Ecology and Behavior: The Fossil Record and Life&amp;#39;s History</description>
-      <itunes:summary>Principles of Evolution, Ecology and Behavior: The Fossil Record and Life&amp;#39;s History</itunes:summary>
+      <itunes:summary>Principles of Evolution, Ecology and Behavior: The Fossil Record and Life's History</itunes:summary>
       <link>https://oyc.yale.edu/ecology-and-evolutionary-biology/eeb-122/lecture-19</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring09/eeb122/mp3/eeb122_19_022509.mp3" type="audio/mpeg" length="45993025"/>
       <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
@@ -9710,7 +9710,7 @@
     <item>
       <title>ENGL 300: Lecture 26</title>
       <description>Introduction to Theory of Literature: Reflections; Who Doesn&amp;#39;t Hate Theory Now?</description>
-      <itunes:summary>Introduction to Theory of Literature: Reflections; Who Doesn&amp;#39;t Hate Theory Now?</itunes:summary>
+      <itunes:summary>Introduction to Theory of Literature: Reflections; Who Doesn't Hate Theory Now?</itunes:summary>
       <link>https://oyc.yale.edu/english/engl-300/lecture-26</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring09/engl300/mp3/engl300_26_042309.mp3" type="audio/mpeg" length="47800280"/>
       <pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
@@ -10010,7 +10010,7 @@
     <item>
       <title>HIST 116: Lecture 1</title>
       <description>The American Revolution: Introduction: Freeman&amp;#39;s Top Five Tips for Studying the Revolution</description>
-      <itunes:summary>The American Revolution: Introduction: Freeman&amp;#39;s Top Five Tips for Studying the Revolution</itunes:summary>
+      <itunes:summary>The American Revolution: Introduction: Freeman's Top Five Tips for Studying the Revolution</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-116/lecture-1</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist116/mp3/hist116_01_011210.mp3" type="audio/mpeg" length="38768182"/>
       <pubDate>Sat, 1 May 2010 00:00:00 +0000</pubDate>
@@ -10046,7 +10046,7 @@
     <item>
       <title>HIST 116: Lecture 4</title>
       <description>The American Revolution: &amp;quot;Ever at Variance and Foolishly Jealous&amp;quot;: Intercolonial Relations</description>
-      <itunes:summary>The American Revolution: &amp;quot;Ever at Variance and Foolishly Jealous&amp;quot;: Intercolonial Relations</itunes:summary>
+      <itunes:summary>The American Revolution: "Ever at Variance and Foolishly Jealous": Intercolonial Relations</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-116/lecture-4</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist116/mp3/hist116_04_012110.mp3" type="audio/mpeg" length="39984443"/>
       <pubDate>Tue, 4 May 2010 00:00:00 +0000</pubDate>
@@ -10370,7 +10370,7 @@
     <item>
       <title>HIST 234: Lecture 6</title>
       <description>Epidemics in Western Society Since 1600: Smallpox (I): &amp;quot;The Speckled Monster&amp;quot;</description>
-      <itunes:summary>Epidemics in Western Society Since 1600: Smallpox (I): &amp;quot;The Speckled Monster&amp;quot;</itunes:summary>
+      <itunes:summary>Epidemics in Western Society Since 1600: Smallpox (I): "The Speckled Monster"</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-234/lecture-6</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_06_020110.mp3" type="audio/mpeg" length="45228577"/>
       <pubDate>Thu, 6 May 2010 00:00:00 +0000</pubDate>
@@ -10430,7 +10430,7 @@
     <item>
       <title>HIST 234: Lecture 11</title>
       <description>Epidemics in Western Society Since 1600: The Sanitary Movement and the &amp;quot;Filth Theory of Disease&amp;quot;</description>
-      <itunes:summary>Epidemics in Western Society Since 1600: The Sanitary Movement and the &amp;quot;Filth Theory of Disease&amp;quot;</itunes:summary>
+      <itunes:summary>Epidemics in Western Society Since 1600: The Sanitary Movement and the "Filth Theory of Disease"</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-234/lecture-11</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_11_021710.mp3" type="audio/mpeg" length="46982752"/>
       <pubDate>Tue, 11 May 2010 00:00:00 +0000</pubDate>
@@ -10442,7 +10442,7 @@
     <item>
       <title>HIST 234: Lecture 12</title>
       <description>Epidemics in Western Society Since 1600: Syphilis: From the &amp;quot;Great Pox&amp;quot; to the Modern Version</description>
-      <itunes:summary>Epidemics in Western Society Since 1600: Syphilis: From the &amp;quot;Great Pox&amp;quot; to the Modern Version</itunes:summary>
+      <itunes:summary>Epidemics in Western Society Since 1600: Syphilis: From the "Great Pox" to the Modern Version</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-234/lecture-12</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_12_022210.mp3" type="audio/mpeg" length="47319627"/>
       <pubDate>Wed, 12 May 2010 00:00:00 +0000</pubDate>
@@ -10610,7 +10610,7 @@
     <item>
       <title>HIST 234: Lecture 26</title>
       <description>Epidemics in Western Society Since 1600: Final Q&amp;amp;A</description>
-      <itunes:summary>Epidemics in Western Society Since 1600: Final Q&amp;amp;A</itunes:summary>
+      <itunes:summary>Epidemics in Western Society Since 1600: Final Q&amp;A</itunes:summary>
       <link>https://oyc.yale.edu/history/hist-234/lecture-26</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/hist234/mp3/hist234_26_042610.mp3" type="audio/mpeg" length="48573087"/>
       <pubDate>Thu, 27 May 2010 00:00:00 +0000</pubDate>
@@ -10646,7 +10646,7 @@
     <item>
       <title>PHYS 201: Lecture 3</title>
       <description>Fundamentals of Physics II: Gauss&amp;#39;s Law I</description>
-      <itunes:summary>Fundamentals of Physics II: Gauss&amp;#39;s Law I</itunes:summary>
+      <itunes:summary>Fundamentals of Physics II: Gauss's Law I</itunes:summary>
       <link>https://oyc.yale.edu/physics/phys-201/lecture-3</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/phys201/mp3/phys201_03_011510.mp3" type="audio/mpeg" length="68468781"/>
       <pubDate>Mon, 3 May 2010 00:00:00 +0000</pubDate>
@@ -10658,7 +10658,7 @@
     <item>
       <title>PHYS 201: Lecture 4</title>
       <description>Fundamentals of Physics II: Gauss&amp;#39;s Law and Application to Conductors and Insulators</description>
-      <itunes:summary>Fundamentals of Physics II: Gauss&amp;#39;s Law and Application to Conductors and Insulators</itunes:summary>
+      <itunes:summary>Fundamentals of Physics II: Gauss's Law and Application to Conductors and Insulators</itunes:summary>
       <link>https://oyc.yale.edu/physics/phys-201/lecture-4</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/phys201/mp3/phys201_04_012010.mp3" type="audio/mpeg" length="72566453"/>
       <pubDate>Tue, 4 May 2010 00:00:00 +0000</pubDate>
@@ -10730,7 +10730,7 @@
     <item>
       <title>PHYS 201: Lecture 10</title>
       <description>Fundamentals of Physics II: Ampere&amp;#39;s Law</description>
-      <itunes:summary>Fundamentals of Physics II: Ampere&amp;#39;s Law</itunes:summary>
+      <itunes:summary>Fundamentals of Physics II: Ampere's Law</itunes:summary>
       <link>https://oyc.yale.edu/physics/phys-201/lecture-10</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/phys201/mp3/phys201_10_021010.mp3" type="audio/mpeg" length="67847275"/>
       <pubDate>Mon, 10 May 2010 00:00:00 +0000</pubDate>
@@ -10742,7 +10742,7 @@
     <item>
       <title>PHYS 201: Lecture 11</title>
       <description>Fundamentals of Physics II: Lenz&amp;#39;s and Faraday&amp;#39;s Laws</description>
-      <itunes:summary>Fundamentals of Physics II: Lenz&amp;#39;s and Faraday&amp;#39;s Laws</itunes:summary>
+      <itunes:summary>Fundamentals of Physics II: Lenz's and Faraday's Laws</itunes:summary>
       <link>https://oyc.yale.edu/physics/phys-201/lecture-11</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/phys201/mp3/phys201_11_021510.mp3" type="audio/mpeg" length="66614296"/>
       <pubDate>Tue, 11 May 2010 00:00:00 +0000</pubDate>
@@ -10778,7 +10778,7 @@
     <item>
       <title>PHYS 201: Lecture 14</title>
       <description>Fundamentals of Physics II: Maxwell&amp;#39;s Equations and Electromagnetic Waves I</description>
-      <itunes:summary>Fundamentals of Physics II: Maxwell&amp;#39;s Equations and Electromagnetic Waves I</itunes:summary>
+      <itunes:summary>Fundamentals of Physics II: Maxwell's Equations and Electromagnetic Waves I</itunes:summary>
       <link>https://oyc.yale.edu/physics/phys-201/lecture-14</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/phys201/mp3/phys201_14_022410.mp3" type="audio/mpeg" length="66981682"/>
       <pubDate>Fri, 14 May 2010 00:00:00 +0000</pubDate>
@@ -10802,7 +10802,7 @@
     <item>
       <title>PHYS 201: Lecture 15</title>
       <description>Fundamentals of Physics II: Maxwell&amp;#39;s Equations and Electromagnetic Waves II</description>
-      <itunes:summary>Fundamentals of Physics II: Maxwell&amp;#39;s Equations and Electromagnetic Waves II</itunes:summary>
+      <itunes:summary>Fundamentals of Physics II: Maxwell's Equations and Electromagnetic Waves II</itunes:summary>
       <link>https://oyc.yale.edu/physics/phys-201/lecture-15</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring10/phys201/mp3/phys201_15_030310.mp3" type="audio/mpeg" length="66708336"/>
       <pubDate>Sun, 16 May 2010 00:00:00 +0000</pubDate>
@@ -11462,7 +11462,7 @@
     <item>
       <title>PHIL 181: Lecture 19</title>
       <description>Philosophy and the Science of Human Nature: Contract &amp;amp; Commonwealth: Thomas Hobbes</description>
-      <itunes:summary>Philosophy and the Science of Human Nature: Contract &amp;amp; Commonwealth: Thomas Hobbes</itunes:summary>
+      <itunes:summary>Philosophy and the Science of Human Nature: Contract &amp; Commonwealth: Thomas Hobbes</itunes:summary>
       <link>https://oyc.yale.edu/philosophy/phil-181/lecture-19</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/phil181/mp3/phil181_19_032911.mp3" type="audio/mpeg" length="44599549"/>
       <pubDate>Thu, 19 May 2011 00:00:00 +0000</pubDate>
@@ -11474,7 +11474,7 @@
     <item>
       <title>PHIL 181: Lecture 20</title>
       <description>Philosophy and the Science of Human Nature: The Prisoner&amp;#39;s Dilemma</description>
-      <itunes:summary>Philosophy and the Science of Human Nature: The Prisoner&amp;#39;s Dilemma</itunes:summary>
+      <itunes:summary>Philosophy and the Science of Human Nature: The Prisoner's Dilemma</itunes:summary>
       <link>https://oyc.yale.edu/philosophy/phil-181/lecture-20</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/phil181/mp3/phil181_20_033111.mp3" type="audio/mpeg" length="45353129"/>
       <pubDate>Fri, 20 May 2011 00:00:00 +0000</pubDate>
@@ -12170,7 +12170,7 @@
     <item>
       <title>ECON 252: Lecture 14</title>
       <description>Financial Markets (2011): Guest Speaker Maurice &amp;quot;Hank&amp;quot; Greenberg</description>
-      <itunes:summary>Financial Markets (2011): Guest Speaker Maurice &amp;quot;Hank&amp;quot; Greenberg</itunes:summary>
+      <itunes:summary>Financial Markets (2011): Guest Speaker Maurice "Hank" Greenberg</itunes:summary>
       <link>https://oyc.yale.edu/economics/econ-252-11/lecture-14</link>
       <enclosure url="http://openmedia.yale.edu/cgi-bin/open_yale/media_downloader.cgi?file=/courses/spring11/econ252/mp3/econ252_14_030211.mp3" type="audio/mpeg" length="67974335"/>
       <pubDate>Sun, 15 May 2011 00:00:00 +0000</pubDate>

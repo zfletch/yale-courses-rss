@@ -64,11 +64,11 @@ class RssGenerator
       course[:lectures].each.with_index do |lecture, ii|
         next unless lecture[:mp3_path]
 
-        description = CGI.escapeHTML("#{course[:course_title]}: #{lecture[:name]}")
+        description = "#{course[:course_title]}: #{lecture[:name]}"
 
         xml.item do
           xml.title "#{course[:course_number]}: #{lecture[:shortname]}"
-          xml.description description
+          xml.description CGI.escapeHTML(description)
           xml[:itunes].summary description
           xml.link lecture[:link]
           xml.enclosure(url: lecture[:mp3_path], type: 'audio/mpeg', length: lecture[:length])
