@@ -18,11 +18,33 @@ class WebScraper
   attr_reader :base, :courses_path, :memo
 
   def get(path)
-    memo[path] ||= Nokogiri::HTML(HTTParty::get("#{base}#{path}"))
+    memo[path] ||= Nokogiri::HTML(HTTParty::get("#{base}#{path}").body)
+  end
+
+  # We need the size of the mp3 file for the enclosure tag
+  # Unfortunately, the Yale server doesn't provide it
+  # The easiest way is to download the file and then check the size
+  def length(url, name)
+    basepath = File.expand_path(File.dirname(File.dirname(__FILE__)))
+    filename = "#{basepath}/audio/#{name}.mp3"
+
+    if !File.exist?(filename)
+      `curl '#{url}' > '#{filename}'`
+    end
+
+    File.size(filename)
+  end
+
+  # This method requires ffmpeg to get the duration of the file
+  def duration(name)
+    basepath = File.expand_path(File.dirname(File.dirname(__FILE__)))
+    filename = "#{basepath}/audio/#{name}.mp3"
+
+    `ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 '#{filename}'`.to_f
   end
 
   def courses
-    get(courses_path).css('table.views-table tbody tr').map do |row|
+    get(courses_path).css('table.views-table tbody tr').map.with_index do |row, ii|
       department, course_number, course_title, professor, date = *row.css('td')
 
       season, year = date.text.strip.split
@@ -36,21 +58,25 @@ class WebScraper
         course_title: course_title.text.strip,
         professor: professor.text.strip,
         start_date: start_date,
-        lectures: lectures(link),
+        lectures: lectures(link, ii),
       }
     end
   end
 
-  def lectures(link)
-    get(link).css('div#quicktabs-tabpage-course-2 table.views-table tbody tr').map do |row|
+  def lectures(link, ii)
+    get(link).css('div#quicktabs-tabpage-course-2 table.views-table tbody tr').map.with_index do |row, jj|
       shortname, name = *row.css('td')
 
       link = name.css('a').first['href']
+      mp3 = mp3_path(link)
 
       {
-        shortname: shortname.text.strip,
+        link: "#{base}#{link}",
+        length: length(mp3, "#{ii}-#{jj}"),
+        duration: duration("#{ii}-#{jj}"),
+        mp3_path: mp3,
         name: name.text.strip,
-        mp3_path: mp3_path(link),
+        shortname: shortname.text.strip,
       }
     end
   end
