@@ -24,7 +24,7 @@ MP3s are downloaded to the `./audio/` directory in order to calculate
 their size and runtime.
 The total size of the downloaded MP3s is around 50G.
 If you have a small drive, you can create a link from
-your external drive to `./audio/` instead of using `mkdir`.
+an external drive to `./audio/` instead of using `mkdir`.
 
 * `mkdir audio`
 
