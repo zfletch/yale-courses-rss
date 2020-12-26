@@ -17,8 +17,7 @@ class RssGenerator
   attr_reader :courses
 
   def builder
-    # @builder ||= Nokogiri::XML::Builder.new do |xml|
-    Nokogiri::XML::Builder.new do |xml|
+    @builder ||= Nokogiri::XML::Builder.new do |xml|
       xml.rss(rss_attributes) do
         xml.channel do
           xml.description 'RSS Feed of audio from Open Yale Courses'
