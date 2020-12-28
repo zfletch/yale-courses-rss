@@ -8,7 +8,7 @@
       <link>https://zfletch.github.io/yale-courses-rss/</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Dec 2020 10:07:54 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 28 Dec 2020 18:41:06 -0500</lastBuildDate>
     <link>https://zfletch.github.io/yale-courses-rss/rss.xml</link>
     <title>Open Yale Courses RSS</title>
     <atom:link href="https://zfletch.github.io/yale-courses-rss/rss.xml" rel="self" type="application/rss+xml"/>
@@ -142,18 +142,6 @@
       <itunes:duration>01:13:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid>https://oyc.yale.edu/physics/phys-200/lecture-11</guid>
-    </item>
-    <item>
-      <title>PHYS 200: Exam 1</title>
-      <description>Fundamentals of Physics I: Midterm Exam</description>
-      <itunes:summary>Fundamentals of Physics I: Midterm Exam</itunes:summary>
-      <link>https://oyc.yale.edu/physics/phys-200/exam-1</link>
-      <enclosure url="http://openmedia.yale.edu/courses/semester/course/mp3/filename.mp3" type="audio/mpeg" length="323"/>
-      <pubDate>Mon, 11 Sep 2006 00:00:00 +0000</pubDate>
-      <itunes:author>Ramamurti Shankar</itunes:author>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid>https://oyc.yale.edu/physics/phys-200/exam-1</guid>
     </item>
     <item>
       <title>PHYS 200: Lecture 12</title>
@@ -6024,18 +6012,6 @@
       <guid>https://oyc.yale.edu/english/engl-310/lecture-25</guid>
     </item>
     <item>
-      <title>ENGL 310: Exam 1</title>
-      <description>Modern Poetry: Final Exam</description>
-      <itunes:summary>Modern Poetry: Final Exam</itunes:summary>
-      <link>https://oyc.yale.edu/english/engl-310/exam-1</link>
-      <enclosure url="http://openmedia.yale.edu/courses/semester/course/mp3/filename.mp3" type="audio/mpeg" length="323"/>
-      <pubDate>Sat, 26 May 2007 00:00:00 +0000</pubDate>
-      <itunes:author>Langdon Hammer</itunes:author>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid>https://oyc.yale.edu/english/engl-310/exam-1</guid>
-    </item>
-    <item>
       <title>PHIL 176: Lecture 1</title>
       <description>Death: Course Introduction</description>
       <itunes:summary>Death: Course Introduction</itunes:summary>
@@ -7728,18 +7704,6 @@
       <guid>https://oyc.yale.edu/biomedical-engineering/beng-100/lecture-15</guid>
     </item>
     <item>
-      <title>BENG 100: Exam 1</title>
-      <description>Frontiers of Biomedical Engineering: Midterm Exam</description>
-      <itunes:summary>Frontiers of Biomedical Engineering: Midterm Exam</itunes:summary>
-      <link>https://oyc.yale.edu/biomedical-engineering/beng-100/exam-1</link>
-      <enclosure url="http://FILENAME.mp3" type="audio/mpeg" length="0"/>
-      <pubDate>Fri, 16 May 2008 00:00:00 +0000</pubDate>
-      <itunes:author>W. Mark Saltzman</itunes:author>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid>https://oyc.yale.edu/biomedical-engineering/beng-100/exam-1</guid>
-    </item>
-    <item>
       <title>BENG 100: Lecture 16</title>
       <description>Frontiers of Biomedical Engineering: Renal Physiology</description>
       <itunes:summary>Frontiers of Biomedical Engineering: Renal Physiology</itunes:summary>
@@ -7858,18 +7822,6 @@
       <itunes:duration>00:50:23</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid>https://oyc.yale.edu/biomedical-engineering/beng-100/lecture-25</guid>
-    </item>
-    <item>
-      <title>BENG 100: Exam 2</title>
-      <description>Frontiers of Biomedical Engineering: Final Exam</description>
-      <itunes:summary>Frontiers of Biomedical Engineering: Final Exam</itunes:summary>
-      <link>https://oyc.yale.edu/biomedical-engineering/beng-100/exam-2</link>
-      <enclosure url="http://FILENAME.mp3" type="audio/mpeg" length="0"/>
-      <pubDate>Tue, 27 May 2008 00:00:00 +0000</pubDate>
-      <itunes:author>W. Mark Saltzman</itunes:author>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid>https://oyc.yale.edu/biomedical-engineering/beng-100/exam-2</guid>
     </item>
     <item>
       <title>ECON 252: Lecture 1</title>
@@ -10788,18 +10740,6 @@
       <guid>https://oyc.yale.edu/physics/phys-201/lecture-14</guid>
     </item>
     <item>
-      <title>PHYS 201: Exam 1</title>
-      <description>Fundamentals of Physics II: Midterm Exam</description>
-      <itunes:summary>Fundamentals of Physics II: Midterm Exam</itunes:summary>
-      <link>https://oyc.yale.edu/physics/phys-201/exam-1</link>
-      <enclosure url="http://openmedia.yale.edu/courses/semester/course/mp3/filename.mp3" type="audio/mpeg" length="323"/>
-      <pubDate>Sat, 15 May 2010 00:00:00 +0000</pubDate>
-      <itunes:author>Ramamurti Shankar</itunes:author>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid>https://oyc.yale.edu/physics/phys-201/exam-1</guid>
-    </item>
-    <item>
       <title>PHYS 201: Lecture 15</title>
       <description>Fundamentals of Physics II: Maxwell&amp;#39;s Equations and Electromagnetic Waves II</description>
       <itunes:summary>Fundamentals of Physics II: Maxwell's Equations and Electromagnetic Waves II</itunes:summary>
@@ -10930,18 +10870,6 @@
       <itunes:duration>00:53:43</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid>https://oyc.yale.edu/physics/phys-201/lecture-25</guid>
-    </item>
-    <item>
-      <title>PHYS 201: Exam 2</title>
-      <description>Fundamentals of Physics II: Final Exam</description>
-      <itunes:summary>Fundamentals of Physics II: Final Exam</itunes:summary>
-      <link>https://oyc.yale.edu/physics/phys-201/exam-2</link>
-      <enclosure url="http://openmedia.yale.edu/courses/semester/course/mp3/filename.mp3" type="audio/mpeg" length="323"/>
-      <pubDate>Thu, 27 May 2010 00:00:00 +0000</pubDate>
-      <itunes:author>Ramamurti Shankar</itunes:author>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid>https://oyc.yale.edu/physics/phys-201/exam-2</guid>
     </item>
     <item>
       <title>AFAM 162: Lecture 1</title>

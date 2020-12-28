@@ -61,7 +61,7 @@ class RssGenerator
       start_date = Date.parse(course[:start_date])
 
       course[:lectures].each.with_index do |lecture, ii|
-        next unless lecture[:mp3_path]
+        next unless lecture[:mp3_path] && lecture[:duration] > 0
 
         description = "#{course[:course_title]}: #{lecture[:name]}"
 
